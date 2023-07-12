@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Python, Flask and JavaScript**
 
-- 📫 How to reach me: **zakarys2005@gmail.com**
+- 📫 You can reach me at: **zakarys2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
