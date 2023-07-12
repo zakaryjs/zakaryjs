@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zakary Sutherland</h1>
+<h1 align="center">Hello! 👋, I'm Zakary Sutherland</h1>
 <h3 align="center">A Web Developer in Development</h3>
 
 - 🔭 I’m currently working on: [Webserver-API](https://github.com/zakaryjs/T2A2-Webserver_API)
