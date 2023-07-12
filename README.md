@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaryjs&label=Profile%20views&color=0e75b6&style=flat" alt="zakaryjs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakaryjs" alt="zakaryjs" /></a> </p>
-
 - 🔭 I’m currently working on [Webserver-API](https://github.com/zakaryjs/T2A2-Webserver_API)
 
 - 🌱 I’m currently learning **Python, Flask and JavaScript**
