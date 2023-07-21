@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Webserver-API](https://github.com/zakaryjs/T2A2-Webserver_API)
 
-- 👀 I will soon begin work on: Pokedex Flask API and Town Of Salem 2 Role Probability Simulator
+- 👀 I will soon begin work on: **Pokedex Flask API and Town Of Salem 2 Role Probability Calculator**
 
 - 🌱 I’m currently learning: **Python, Flask and JavaScript**
 
