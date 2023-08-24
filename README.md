@@ -5,7 +5,7 @@
 
 - 👀 I will soon begin work on: An updated portfolio
 
-- 🌱 I’m currently learning: **Python, Flask and JavaScript**
+- 🌱 I’m currently learning: **JavaScript**
 
 - 📫 You can reach me at: **zakarys2005@gmail.com**
 
