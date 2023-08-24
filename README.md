@@ -1,9 +1,9 @@
 <h1 align="center">Hello! 👋, I'm Zakary Sutherland</h1>
 <h3 align="center">A Web Developer in Development</h3>
 
-- 🔭 I’m currently working on: [Text Based Adventure in Python](https://github.com/zakaryjs/Project_-_Text-Based-Adventure)
+- 🔭 I’m currently working on:
 
-- 👀 I will soon begin work on: 
+- 👀 I will soon begin work on: An updated portfolio
 
 - 🌱 I’m currently learning: **Python, Flask and JavaScript**
 
