@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Zakary Sutherland</h1>
 <h3 align="center">A Web Developer in Development</h3>
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working on: [SpotiMy](https://github.com/zakaryjs/SpotiMy)
 
 - 👀 I will soon begin work on: An updated portfolio
 
