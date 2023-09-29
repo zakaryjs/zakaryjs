@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Zakary Sutherland</h1>
 <h3 align="center">A Web Developer in Development</h3>
 
-- 🔭 I’m currently working on: [Weatherly](https://github.com/zakaryjs/Project_-_Weatherly-React)
+- 🔭 I’m currently working on: [Rust Console Raid Calculator](https://github.com/zakaryjs/Project_-_Rust-Console-Raid-Calculator-React)
 
 - 👀 I will soon begin work on: An updated portfolio
 
