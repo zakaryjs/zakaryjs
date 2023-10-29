@@ -28,4 +28,6 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zakaryjs&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaryjs&theme=dark" alt="GitHub Streak Stats">
+</div>
