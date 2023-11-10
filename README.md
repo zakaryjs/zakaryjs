@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=400&section=header&text=Zakary%20Sutherland&fontSize=90&animation=fadeIn&desc=Web%20Devloper%20in%20Development&theme=tokyonight&descAlignY=70)
 
-### 🔭 I’m currently working on: [Marvellous](https://github.com/zakaryjs/Project_-_Marvellous-React)
+### 🔭 I’m currently working on: [An Updated Portfolio](https://github.com/zakaryjs/Portfolio_Revamp)
 
-### 👀 I will soon begin work on: An updated portfolio
+### 👀 I will soon begin work on: ...
 
 ### 🌱 I’m currently learning: ExpressJS, MongoDB
 
