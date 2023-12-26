@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=400&section=header&text=Zakary%20Sutherland&fontSize=90&animation=fadeIn&desc=Web%20Devloper%20in%20Development&theme=tokyonight&descAlignY=70)
 
-### 🔭 I’m currently working on: [An Updated Portfolio](https://github.com/zakaryjs/Portfolio_Revamp)
+### 🔭 I’m currently working on: ...
 
 ### 👀 I will soon begin work on: ...
 
-### 🌱 I’m currently learning: ExpressJS, MongoDB
+### 🌱 I’m currently learning: Typescript
 
 ### 📫 You can reach me at: zakarys2005@gmail.com
 
