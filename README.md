@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=400&section=header&text=Zakary%20Sutherland&fontSize=90&animation=fadeIn&desc=Web%20Devloper%20in%20Development&theme=tokyonight&descAlignY=70)
 
-### 🔭 I’m currently working on: ...
+### 🔭 I’m currently working on: A pokedex built with Typescript + React
 
 ### 👀 I will soon begin work on: ...
 
