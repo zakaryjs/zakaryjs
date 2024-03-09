@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on: A Codenames clone
 
-### 👀 I will soon begin work on: ...
+### 👀 I will soon begin work on: A Rust webserver
 
 ### 🌱 I’m currently learning: Rust
 
